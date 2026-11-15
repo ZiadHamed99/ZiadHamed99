@@ -1,65 +1,35 @@
 # Hi, I'm Ziad Hamed 👋
 
-🎓 Final-year Cybersecurity Student @ BSBI Berlin School of Business and Innovation  
-🔐 Passionate about AI Security, Network Security & Ethical Hacking  
-📍 Berlin, Germany  
-📧 ziadmohamed0408@gmail.com  
-
----
+🎓 Cybersecurity Graduate | BSc (Hons) Computer Science & Digitisation, BSBI Berlin (2 October 2026)
+🔐 Focus: AI Security, SOC Analysis, Network Security
+📍 Berlin, Germany
+📧 ziadmohamed0408@gmail.com
 
 ## 🧠 About Me
 
-I'm a Computer Science and Digitisation student majoring in Cybersecurity, expected to graduate in September/October 2026. I'm currently researching AI-powered cybersecurity threats and their impact on university students for my dissertation.
-
----
+Cybersecurity graduate seeking a junior SOC analyst role. I completed my dissertation on AI-powered cybersecurity threats and user awareness among university students, and I'm training on TryHackMe's SOC Level 1 path.
 
 ## 🛠️ Skills & Tools
 
-![Python](https://img.shields.io/badge/Python-Beginner-blue)
-![HTML](https://img.shields.io/badge/HTML-CSS-orange)
-![Figma](https://img.shields.io/badge/Figma-UI%20Design-purple)
-![TryHackMe](https://img.shields.io/badge/TryHackMe-Active-red)
-![OWASP](https://img.shields.io/badge/OWASP-LLM%20Top%2010-green)
-
----
+Python · HTML · CSS · Figma · TryHackMe · OWASP Top 10 for LLM Applications
 
 ## 📜 Certifications
 
-- ✅ TryHackMe — Pre Security Learning Path (May 2026) | ID: THM-Z1YOOVFQQJ
-- 🔄 Currently: AI Security Learning Path (TryHackMe)
-
----
+- ✅ TryHackMe: AI Security Learning Path (Oct 2026) | ID: THM-RWPOCTSKLK
+- ✅ TryHackMe: Pre Security Learning Path (May 2026) | ID: THM-Z1YOOVFQQJ
+- 🔄 TryHackMe: SOC Level 1 Learning Path (in progress)
 
 ## 📂 Projects
 
 | Project | Description | Status |
 |---|---|---|
-| AI Cybersecurity Dissertation | Investigating AI-powered threats & student awareness | 🔄 In Progress |
-
----
+| PhishRadar | AI phishing detection web app (English, German, Arabic) | ✅ Built |
+| AI Cybersecurity Dissertation | AI-powered threats and student awareness | ✅ Completed |
 
 ## 🌍 Languages
 
-🇪🇬 Arabic — Native | 🇬🇧 English — C1 | 🇩🇪 German — A2
+🇪🇬 Arabic: Native | 🇬🇧 English: C1 | 🇩🇪 German: A2
 
----
+## 📫 Connect
 
-## 📫 Connect with Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://linkedin.com/in/ziadhamed)
-[![TryHackMe](https://img.shields.io/badge/TryHackMe-Profile-red)](https://tryhackme.com/p/ZiadHamed99)## Hi there 👋
-
-<!--
-**ZiadHamed99/ZiadHamed99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[LinkedIn](add-your-linkedin-url) · [TryHackMe](https://tryhackme.com/p/ZIADHAMED)
