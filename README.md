@@ -32,4 +32,5 @@ Python · HTML · CSS · Figma · TryHackMe · OWASP Top 10 for LLM Applications
 
 ## 📫 Connect
 
-[LinkedIn](www.linkedin.com/in/ziad-hamed99) · [TryHackMe](https://tryhackme.com/p/ZIADHAMED)
+[LinkedIn](https://www.linkedin.com/in/ziad-hamed99) · 
+[TryHackMe](https://tryhackme.com/p/ZIADHAMED)
