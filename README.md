@@ -40,7 +40,7 @@ I'm a Computer Science and Digitisation student majoring in Cybersecurity, expec
 
 ## 🌍 Languages
 
-🇪🇬 Arabic — Native | 🇬🇧 English — C1 | 🇩🇪 German — A1
+🇪🇬 Arabic — Native | 🇬🇧 English — C1 | 🇩🇪 German — A2
 
 ---
 
